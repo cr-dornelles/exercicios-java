@@ -6,7 +6,7 @@ public class CommitSemantico {
     }
 
     public static void saudacao(String nome) {
-        System.out.println("Oi " + nome);
+        System.out.println("Bem-vindo, " + nome + "!");
     }
 
 }
