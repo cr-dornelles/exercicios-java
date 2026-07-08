@@ -5,6 +5,7 @@ public class CommitSemantico {
         saudacao("Cristian");
     }
 
+    // Exibe mensagem de boas-vindas personalizada pelo nome do usuario
     public static void saudacao(String nome) {
         System.out.println("Bem-vindo, " + nome + "!");
     }
